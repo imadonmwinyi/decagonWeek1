@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\bin\Debug\netcoreapp3.1\OsazeeGPACalculator.exe
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\bin\Debug\netcoreapp3.1\OsazeeGPACalculator.deps.json
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\bin\Debug\netcoreapp3.1\OsazeeGPACalculator.runtimeconfig.json
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\bin\Debug\netcoreapp3.1\OsazeeGPACalculator.runtimeconfig.dev.json
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\bin\Debug\netcoreapp3.1\OsazeeGPACalculator.dll
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\bin\Debug\netcoreapp3.1\OsazeeGPACalculator.pdb
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.AssemblyInfo.cs
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.dll
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.pdb
+C:\Users\hp\source\repos\OsazeeGPACalculator\OsazeeGPACalculator\obj\Debug\netcoreapp3.1\OsazeeGPACalculator.genruntimeconfig.cache
